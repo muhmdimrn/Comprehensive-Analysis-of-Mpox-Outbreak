@@ -1,0 +1,24 @@
+Symptom,n_all,pct_all,n_male,pct_male,n_female,pct_female
+Any rash,32319,0.885,31022,0.89,1127,0.82
+Fever,21143,0.579,20245,0.581,724,0.527
+Systemic rash,19993,0.548,19030,0.546,930,0.677
+Genital rash,18072,0.495,17543,0.503,391,0.285
+Any lymphadenopathy,10930,0.299,10640,0.305,229,0.167
+Headache,10530,0.288,9965,0.286,513,0.373
+Muscle ache,9464,0.259,9053,0.26,399,0.29
+General lymphadenopathy,8430,0.231,8222,0.236,148,0.108
+Fatigue,6543,0.179,6385,0.183,152,0.111
+Local lymphadenopathy,5813,0.159,5680,0.163,132,0.096
+Sore throat,5534,0.152,5255,0.151,228,0.166
+"Rash, unknown location",3466,0.095,3441,0.099,23,0.017
+Oral rash,2919,0.08,2824,0.081,83,0.06
+Chills,2687,0.074,2533,0.073,121,0.088
+Cough,863,0.024,790,0.023,57,0.041
+Vomiting,776,0.021,721,0.021,52,0.038
+"Lymphadenopathy, location unknown",469,0.013,455,0.013,14,0.01
+Anogenital pain and/or bleeding,378,0.01,372,0.011,6,0.004
+Asymptomatic,284,0.008,259,0.007,18,0.013
+Other,254,0.007,249,0.007,5,0.004
+Conjunctivitis,205,0.006,189,0.005,14,0.01
+Diarrhea,126,0.003,104,0.003,2,0.001
+Genital oedema,45,0.001,44,0.001,0,0
